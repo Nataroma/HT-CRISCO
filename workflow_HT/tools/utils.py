@@ -478,7 +478,7 @@ def valid_xml(inputfile):
                "Vvc", "Vuc", "Vvn", "Vun", "Pp", "Pr", "Pd", "Pi", 
                "Ps", "Pt", "S", "Cs", "Cc", "Da", "Di", "Dn",
                "Ds", "S+Da", "Nc", "Np", "Rp", "Fw", "Fs", "Fo",
-               "Rt", "Dt", "Dr", "Xa", "Xe", "INT", "Dd", "S+Di", "Dp", "S+Pr", "S+Dn"]
+               "Rt", "Dt", "Dr", "Xa", "Xe", "INT", "Dd", "S+Di", "Dp", "S+Dr", "S+Pr", "S+Dn", "S+Dd", "Rn"]
     
     path_CorrTable = 'ressources/MICLE_CorrTable_coherence_26.10.23.csv'
 
